@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Bani Sah.
-Aspiring Artificial Intelligence Engineer who turns messy data into solutions that actually work.
+I am an Artificial Intelligence Engineer who turns messy data into solutions that actually work.
 I build end-to-end ML pipelines — from raw data wrangling to production-ready model deployment. My work spans computer vision (CNNs), NLP (sentiment analysis), and recommendation systems (collaborative filtering), using Python, TensorFlow, and Scikit-learn.
 Currently pursuing my MCA while shipping projects that push what's possible with ML.
 📫 banisah256@gmail.com · 🤝 Open to entry-level AI/ML Engineer roles
@@ -20,4 +20,3 @@ Currently pursuing my MCA while shipping projects that push what's possible with
 ---
 [![](https://visitcount.itsvg.in/api?id= banisah256-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
