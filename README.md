@@ -1,8 +1,8 @@
 ## Hi 👋 It's me  Bani Sah.
 I am an Artificial Intelligence Engineer who turns messy data into solutions that actually works🙃.
 I build end-to-end ML pipelines — from raw data wrangling to production-ready model deployment. My work spans computer vision (CNNs), NLP (sentiment analysis), and recommendation systems (collaborative filtering), using Python, TensorFlow, and Scikit-learn.
-Currently pursuing my MCA while shipping projects that push what's possible with ML.
-📫 banisah256@gmail.com · 🤝 Open to entry-level AI/ML Engineer roles
+Currently pursuing my MCA while shipping projects that push what's possible with myself.
+📫 banisah256@gmail.com   🤝 Open to entry-level AI/ML Engineer roles
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bani Sah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:banisah256@gmail.com) 
