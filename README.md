@@ -1,4 +1,4 @@
-## Hi 👋 Myself  Bani Sah.
+## Hi 👋 I am  Bani Sah.
 I am an Artificial Intelligence Engineer who turns messy data into solutions that actually works🙃.
 I build end-to-end ML pipelines — from raw data wrangling to production-ready model deployment. My work spans computer vision (CNNs), NLP (sentiment analysis), and recommendation systems (collaborative filtering), using Python, TensorFlow, and Scikit-learn.
 Currently pursuing my MCA while shipping projects that push what's possible with myself.
