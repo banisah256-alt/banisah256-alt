@@ -1,5 +1,5 @@
 Hi! I am  Data Analyst who tries hard to  turn  all kinds  of messy data into solutions that actually works🙃.
-I build end-to-end ML pipelines — from raw data wranglin to production-ready model deployment. My work spans computer vision (CNNs), NLP (sentiment analysis), and recommendation systems (collaborative filtering), using Python, TensorFlow, and Scikit-learn.
+I build end-to-end ML pipelines — from raw data wrangle to production-ready model deployment. My work spans computer vision (CNNs), NLP (sentiment analysis), and recommendation systems (collaborative filtering), using Python, TensorFlow, and Scikit-learn.
 Currently I'm pursuing my MCA while shipping projects that push what's possible with myself.
 📫 banisah256@gmail.com   🤝 Open to entry-level Data Analyst roles.
 
