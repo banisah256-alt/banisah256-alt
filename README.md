@@ -1,4 +1,4 @@
-Hi! I
+Hi! I am
 📫 banisah256@gmail.com   🤝 Open to entry-level Data  roles.
 
 ## 🌐 Socials:
