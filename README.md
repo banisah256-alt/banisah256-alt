@@ -1,5 +1,5 @@
 Hi! I am
-📫 banisah256@gmail.com   🤝 Open to the entry-level of   all  roles for myselff.
+📫 banisah256@gmail.com   🤝 Open to the entry-level of   all  roles for myself.
 
 
 ## 🌐 Socials:
