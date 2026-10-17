@@ -1,7 +1,5 @@
 Hi! I am
-📫 banisah256@gmail.com   🤝 Open to the entry-level of   all  roles for myself and my career.
-
-
+📫 banisah256@gmail.com   🤝 Open to the entry-level roles and i'll also upload notes for  mainly all tier students that makes them easy to understand.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/banisah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:banisah256@gmail.com)
 
